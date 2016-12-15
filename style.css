@@ -1,0 +1,9 @@
+.style-1 input[type="text"] { 
+  
+  border: solid 1px #dcdcdc;  
+  border-radius: 20px;
+  background-image: url('user_woman_help.png');
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
